@@ -12,7 +12,7 @@
 |Team Leader :|SELVAKANNAN M |
 | ------------|---------------|              
 |Team member 1 :| RAJA PANDI L |
-|Team member 2 :| MANOJ PANDDIAN G V |
+|Team member 2 :| MANOJ PANDIAN G V |
 |Team member 3 :| SURENDAR M |
 
 ## Project Description:
